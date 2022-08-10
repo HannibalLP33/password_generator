@@ -1,0 +1,4 @@
+random
+string
+itertools
+pyperclip3
